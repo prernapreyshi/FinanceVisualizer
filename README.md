@@ -7,7 +7,7 @@ A simple and modern web application to track personal finances with real-time ch
 
 ## 🔗 Live Demo
 
-[Click here to try it out!](https://your-deployment-url.com) <!-- Replace with actual link -->
+[Click here to try it out!](https://finance-visualizer-94s1s5vtj-prerna-preyshis-projects.vercel.app/) <!-- Replace with actual link -->
 
 ---
 
@@ -45,7 +45,4 @@ A simple and modern web application to track personal finances with real-time ch
 | **MongoDB**   | NoSQL database for transaction data  |
 | **Tailwind CSS** | Utility-first styling (via shadcn) |
 
----
-
-## 📦 Project Structure
 
